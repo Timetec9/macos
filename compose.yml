@@ -5,7 +5,7 @@ services:
     environment:
       VERSION: "26"
       CPU_CORES: "10"
-      RAM_SIZE: "50G"
+      RAM_SIZE: "30G"
       WIDTH: "1680"
       HEIGHT: "1050"
     devices:
